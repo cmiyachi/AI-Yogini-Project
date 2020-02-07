@@ -1,43 +1,8 @@
 # AI Yogini Project
  Udacity AI Project with #women_who_code
  
- Comments:
-	· SvcDetails:
-			o I think we should hide the columns with: “Complete WUI Path to attribute”, “Complete LUI Path to attribute”, “MPS Requirement Tag(s)”, “Interfaces/API Config server access method”, and probably “EIP Important MIB”. Plus the ‘random comment’ column to the right of “EIP Important MIB”.
-			o There are also 3 columns to the very far right that might be removable. Maybe Steve A can comment on usefulness.
-	· xcmHrDevDetailTable: 
-			o I think we should hide the columns with: “Complete WUI Path to attribute”, “Complete LUI Path to attribute”, “CQ/DAR” (??), “MPS Requirement Tag(s)”, “Interfaces/API”, and probably “EIP Important MIB”.
- 
-This adds to the “manual process”, but probably helps with size/scale. I guess make sure you have something written down on “how to do this” so someone else could pick it up someday.
-
-Download MIB here: http://xww.docushare-xogpsg.world.xerox.com/dsweb/View/Collection-110541 
-FS 55.100 Common Device Profile (MIBS) NEW
-
-From <http://xww.docushare-xogpsg.world.xerox.com/dsweb/View/Collection-110541> 
-
-
-Commentary:
-	· Can we bump up the default view to something like 150%?
-	· 59svcmon
-			o I think we need to remove the “XEROX INTERNAL USE ONLY”.
-					§ We’re sending these docs “out”
-			o We should hide the columns for CQ / SRC  and Release and probably Notes, Comments, and Remarks:
-					§ That’s internal/Xerox info.
-	· xcmSvcMonServiceTable:
-			o Remove the “XEROX INTERNAL USE ONLY”.
-			o We should hide the columns for Release
-	· SvcDetails:
-			o Remove the “XEROX INTERNAL USE ONLY”.
-			o We should hide the columns for Interfaces/API Config server access method
-	· xcmHrDevDetailTable:
-			o Remove the “XEROX INTERNAL USE ONLY”.
-			o We should hide the columns for:
-					§ Complete WUI Path to attribute
-					§ Release
- 
-
 Image Data
-So I have here three new poses.  I could not find good images of Urdhva Hastasana at the angles I wanted. 
+I have here three new poses.  I could not find good images of Urdhva Hastasana at the angles I wanted. 
 I've chose Virabhradrasana 1,2, and 3
 
 Warrior 1,2, and 3
